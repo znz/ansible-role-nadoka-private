@@ -1,0 +1,23 @@
+---
+galaxy_info:
+  author: Kazuhiro NISHIYAMA
+  description: Setup nadoka for private servers
+  license: MIT
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+    - xenial
+    - yakkety
+  - name: Debian
+    versions:
+    - wheezy
+    - jessie
+
+  categories:
+  - irc
+  - system
+
+dependencies: []
